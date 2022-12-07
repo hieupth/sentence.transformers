@@ -38,4 +38,4 @@ jobs:
         with:
           username: ${{ secrets.DOCKERHUB_USERNAME }}
           password: ${{ secrets.DOCKERHUB_TOKEN }}
-          repository: hieupth/minicuda
+          repository: hieupth/sentence-transformers
