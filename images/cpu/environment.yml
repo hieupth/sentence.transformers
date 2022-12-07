@@ -1,0 +1,6 @@
+name: sentence-transformers
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - sentence-transformers
